@@ -89,6 +89,27 @@
       "idiom" : "mac",
       "scale" : "2x",
       "size" : "512x512"
+    },
+    {
+      "filename" : "AppIcon-visionos-back.png",
+      "idiom" : "reality",
+      "platform" : "visionos",
+      "role" : "back",
+      "size" : "1024x1024"
+    },
+    {
+      "filename" : "AppIcon-visionos-middle.png",
+      "idiom" : "reality",
+      "platform" : "visionos",
+      "role" : "middle",
+      "size" : "1024x1024"
+    },
+    {
+      "filename" : "AppIcon-visionos-front.png",
+      "idiom" : "reality",
+      "platform" : "visionos",
+      "role" : "front",
+      "size" : "1024x1024"
     }
   ],
   "info" : {
